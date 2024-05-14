@@ -1,0 +1,19 @@
+Instruções de uso do programa Escaneador de Portas
+
+1- Abra o programa "Port Scanner.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- No campo "URL ou IP", digite ou URL (endereço de site) ou IP (da máquina) que deseja verificar as portas;
+
+3- Em "Início" digite o número da porta inicial que deseja testar;
+
+4- Em "Fim" digite o número da porta final que deseja testar.
+
+5- Clique no botão "Iniciar" e aguarde.
+
+OBS: Para uma lista completa de portas que você pode testar, acesse o endereço https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP
+
+DICAS: 
+-Teste as portas mais utilizadas, como a 80 (protocolo HTTP);
+-Nos campos "Início" e "Fim" não coloque números muito distantes, porque o programa pode demorar para testar todas as portas, procure colocar uma diferença de 20 ou no máximo 30;
+-Se você tem certeza quanto ao número da porta que deseja testar, coloque o mesmo número nos campos "Início" e "Fim".
